@@ -1,0 +1,30 @@
+Nightmare Hotel
+* Prologue
+** A New Mission ** Dear HUNTER,
+
+As you have heard, there have been recent sightings of "ghosts" at the abandoned boarding school. According to eyewitness accounts, the entities match the figures of the seven students who sent missing 20 years ago. Reportedly, victims who come in contact with these entities end up falling into a deep sleep, where they experience terrible nightmare sequences. As such, the locals have dubbed the abandoned building "Nightmare Hotel."
+
+Your mission is to travel to this "Nightmare Hotel" and investigate. Your mission files are included. Be sure to write a full report.
+
+You are one of our best. I am counting on you.
+
+SPIDER
+**
+*** Continue *** 1 *** 0
+* Chapter 1
+** An Old, Dilapidated Building ** You arrive at the mansion late at night. It's an old, dilapidated building with obvious signs of wear and tear. The front gate enclosed a courtyard, with a moldy fountain and grass lawn filled with weeds. Two narrow, bricked out paths circle around the gates and either side of the building to the back, where a forest stretched out into the night.
+**
+*** Explore the surrounding area *** 1 *** 1
+*** Enter the building *** 1 *** 3
+** The Back Door ** You follow one of the brick paths around the to the back of the building, where there is a back door. From it, a small gravel path snakes out into the dark and foreboding forest.
+**
+*** Go into the forest *** 1 *** 2
+*** Enter the building *** 1 *** 3
+** Into the Forest ** The forest is dark and gloomy. An owl hoots in the distance. Perhaps, the young students would have delighted in taking walks out here in the summer months, but at nighttime, this place gives off an eerie feeling. Perhaps it would be best if you went back into the building. That is where your assignment lies, after all.
+**
+*** Go into the building *** 1 *** 3
+** The Main Hall ** You enter building and are greeted with the main hall. Sutdents would have congregated here for events, and spent their mealtimes together here. To your right are the learning commons, with classrooms and a library. To your left are the dorms, where students at the school would have resided.
+**
+*** Go right *** 1 *** 3
+*** Go left *** 1 *** 3
+end
